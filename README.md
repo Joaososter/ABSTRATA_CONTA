@@ -19,6 +19,7 @@ As duas contas possuem diferentes taxas para saque, depósito e consulta.
 📋 Pré-requisitos
 
 Java JDK (versão 11 ou superior).
+
 Visual Studio Code ou outra IDE de sua preferência.
 
 
@@ -34,6 +35,7 @@ Compile e execute as classes no terminal ou usando a extensão de Java no VS Cod
 🛠️ Construído com
 
 Java Linguagem de programação usada.
+
 Visual Studio Code (IDE utilizada para o desenvolvimento).
 
 
